@@ -1,0 +1,89 @@
+#PRESENTACION {
+background-color: grey;
+border-bottom: 2px solid black;
+padding: 15px;
+margin: 0px
+}
+
+h1 { color:white;
+    text-align: center;
+    font-size: 28pt;
+    margin-top: 0px;
+}
+h3{
+    text-align: center; text-decoration: underline;
+}
+img {border: 3px solid black;
+    border-radius: 50px;
+    margin: 0px auto;
+    display: block;
+    width: 10%;}
+#NOMBRE{
+    position: absolute;top:80px;
+    font-size: 18pt; color:white;
+    
+}
+#DESCRIPCION{
+    position: absolute;top: 120px;
+    font-size: 14pt; color:white; 
+    width: 350px;
+    word-wrap: break-word;
+}
+#CONTACTO{
+    width: 500PX;
+    background-color:rgb(201, 201, 201);
+    padding: 0px;
+    margin: 0px; 
+    border-top: 0pt; 
+    border-right: 2px solid black;
+    position: absolute; top: 260px;
+}
+#LISTADO_CONTACTOS{
+    font-size: 14pt;
+    letter-spacing: 0pt;
+    word-wrap: break-word;
+    line-height: 30pt;
+}
+#FORMACION_ACADEMICA{
+    width: 500PX;
+    background-color:rgb(201, 201, 201);
+    padding: 0px;
+    margin: 0px; 
+    border-top: 0pt; 
+    border-right: 2px solid black;
+    position: absolute;top: 500px;
+    line-height: 20pt ;
+    word-wrap: break-word;
+}
+#EXPERIENCIA_LABORAL{
+    width: 300PX; height: 238px;
+    background-color:rgb(201, 201, 201);
+    padding: 0px;
+    margin: 0px; 
+    border-top: 0pt;
+    border-right: 2px solid black;
+    position: absolute;top: 260px;left: 510px;
+    line-height: 20pt ;
+    word-wrap: break-word;
+}
+#REFERENCIAS{
+    width: 528px; height: 238px;
+    background-color:rgb(201, 201, 201);
+    padding: 0px;
+    margin: 0px; 
+    border-top: 0pt; 
+    position: absolute;top: 260px;
+    line-height: 20pt ;
+    word-wrap: break-word;
+    position: absolute;left: 812px;
+}
+#VER_REFERENCIA{
+    padding: 0px;
+    margin: 0px; 
+    border-top: 0pt; 
+    position: absolute;top: 260px;right: 0px;
+    line-height: 20pt ;
+    word-wrap: break-word;
+    width: 820PX
+}
+ 
